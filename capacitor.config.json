@@ -1,0 +1,6 @@
+{
+  "appId": "com.massarena.game",
+  "appName": "Mass Arena",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
